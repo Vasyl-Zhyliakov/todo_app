@@ -4,7 +4,7 @@ The Todo App lets users create, read, update, and delete to-do tasks. A task has
 
 - [Demo](https://Vasyl-Zhyliakov.github.io/todo_app/)
 
-  # Technologies used
+# Technologies used
 - React
 - TypeScript
 - Fetch Api
