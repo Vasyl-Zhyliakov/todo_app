@@ -1,9 +1,12 @@
-# React TypeScript Starter Pack
+  # Todo App
 
-To use this template click `Use this template`
+The Todo App lets a user create, read, update and delete to-do tasks. A task has a title and description and can be completed or active. Completed tasks can be deleted at once. Also Todo App will save all changes to the API.
 
-### Available Scripts
+- [Demo](https://Vasyl-Zhyliakov.github.io/todo_app/)
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+  # Technologies used
+- React
+- TypeScript
+- Fetch Api
+- Sass(SCSS)
+- Bulma and FontAwesome
